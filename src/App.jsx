@@ -8,6 +8,7 @@ import Section4 from './Comonents/Section4/Section4'
 import Section5 from './Comonents/Section5/Section5'
 import Section6 from './Comonents/Section6/Section6'
 import Section7 from './Comonents/Section7/Section7'
+import Section8 from './Comonents/Section8/Section8'
 
 function App() {
   return (
@@ -21,6 +22,7 @@ function App() {
       <Section5></Section5>
       <Section6></Section6>
       <Section7></Section7>
+      <Section8></Section8>
     </>
   )
 }
